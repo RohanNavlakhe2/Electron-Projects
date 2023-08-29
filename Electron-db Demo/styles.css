@@ -1,0 +1,16 @@
+#topDiv{
+ margin: 20px;
+}
+
+#addProductDiv{
+    clear: both;
+    width: 50vw;
+    margin: auto;
+    padding: 15px;
+    border:  1px solid lightblue;
+    display: none;
+}
+
+#productsDiv{
+    clear: both;
+}
